@@ -30,6 +30,7 @@
         "drupal/panels": "^4.4",
         "drupal/paragraphs": "^1.11",
         "drupal/radix_layouts": "^4.1",
+        "drupal/redirect": "^1.5",
         "drush/drush": "^10.2"
     },
     "require-dev": {
