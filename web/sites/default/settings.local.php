@@ -113,3 +113,6 @@ $settings['rebuild_access'] = TRUE;
  * directory.
  */
 $settings['skip_permissions_hardening'] = TRUE;
+
+require_once DRUPAL_ROOT . '/modules/contrib/devel/kint/kint/Kint.class.php';
+Kint::$maxLevels = 4;
